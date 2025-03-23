@@ -3,6 +3,7 @@ Turning my passions of music into projects that drive and motivate me. Exploring
 
 I’m currently working on:  
  - Implementing machine learning algorithms the data I collect from Tracker.Sptfy to compare music tastes with friends and provide reccomendations based on someone elses music listening habits.
+ - Expanding stats.sptfy to include additional statistics and graphical data representations.
  - Further developing my design skills through working on my website, and learning UI/UX through reddit and tik tok (thank you blaze smith -shovel.studio- !!).
 <!--
 **Reuben-Mattam/Reuben-Mattam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
